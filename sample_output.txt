@@ -1,0 +1,33 @@
+                   name  age  max_price  wonderkid_score
+3       Johannes Schenk   20       0.30           0.3020
+16     Ryan Gravenberch   20      35.00          31.9600
+17        Jamal Musiala   20     110.00         105.4000
+18          Paul Wanner   17       3.00           2.7050
+19   Arijon Ibrahimovic   17       1.00           1.0002
+..                  ...  ...        ...              ...
+432        Mio Backhaus   19       0.30           0.3010
+434          Louis Lord   19       0.15           0.1695
+439     Fabio Chiarodia   17       1.00           1.0002
+446      Dikeni Salifou   19       0.20           0.2000
+496      Mohammed Tolba   18       0.20           0.2030
+
+[78 rows x 4 columns]
+---------------------------------------------------------------------
+                    name  age  max_price  wonderkid_score
+47       Jude Bellingham   19      120.0       112.000000
+17         Jamal Musiala   20      110.0       105.400000
+106        Florian Wirtz   20       85.0        83.750000
+50        Giovanni Reyna   20       42.0        32.658333
+16      Ryan Gravenberch   20       35.0        31.960000
+58     Youssoufa Moukoko   18       30.0        30.320000
+25            Mathys Tel   18       20.0        19.404828
+112          Adam Hlozek   20       20.0        13.986667
+54   Jamie Bynoe-Gittens   18       14.0        12.623053
+154           Joe Scally   20       12.0        11.916495
+Mean Squared Error for Wonderkids:  4.405027972322826
+---------------------------------------------------------------------
+Final Report on the Data
+Total Players in Data Set:  515
+Total Players Under 21:  78
+Overall Data Set Accuracy:  0.7401807473699991
+Wonderkid Subset Accuracy:  0.971695224435794
